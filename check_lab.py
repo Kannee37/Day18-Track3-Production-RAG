@@ -1,50 +1,44 @@
-"""
-Kiểm tra định dạng bài nộp trước khi submit.
-Chạy: python check_lab.py
-
-⚠️ Lỗi định dạng khiến script chấm tự động không chạy → trừ 5 điểm thủ tục.
-"""
+"""Submission checks for Lab 18."""
 
 import json
 import os
-import sys
+import re
 import subprocess
+import sys
 
 
 def check_file(path: str, required: bool = True) -> bool:
     if os.path.exists(path):
-        print(f"  ✅ {path}")
+        print(f"  OK: {path}")
         return True
-    elif required:
-        print(f"  ❌ THIẾU: {path}")
+    if required:
+        print(f"  MISSING: {path}")
         return False
-    else:
-        print(f"  ⚠️  Optional: {path}")
-        return True
+    print(f"  Optional missing: {path}")
+    return True
 
 
 def check_json(path: str, required_keys: list[str]) -> bool:
     try:
         with open(path, encoding="utf-8") as f:
             data = json.load(f)
-        missing = [k for k in required_keys if k not in data]
+        missing = [key for key in required_keys if key not in data]
         if missing:
-            print(f"  ❌ {path} thiếu keys: {missing}")
+            print(f"  BAD: {path} missing keys: {missing}")
             return False
-        print(f"  ✅ {path} — keys OK")
+        print(f"  OK: {path} keys OK")
         return True
-    except (json.JSONDecodeError, FileNotFoundError) as e:
-        print(f"  ❌ {path} — {e}")
+    except (json.JSONDecodeError, FileNotFoundError) as exc:
+        print(f"  BAD: {path} - {exc}")
         return False
 
 
 def check_todos() -> int:
-    """Count remaining TODO markers in src/."""
     count = 0
     for root, _, files in os.walk("src"):
-        for f in files:
-            if f.endswith(".py"):
-                with open(os.path.join(root, f), encoding="utf-8") as fh:
+        for filename in files:
+            if filename.endswith(".py"):
+                with open(os.path.join(root, filename), encoding="utf-8") as fh:
                     for line in fh:
                         if "# TODO:" in line:
                             count += 1
@@ -52,42 +46,38 @@ def check_todos() -> int:
 
 
 def run_tests() -> tuple[int, int]:
-    """Run pytest and return (passed, total)."""
     try:
         result = subprocess.run(
             [sys.executable, "-m", "pytest", "tests/", "-v", "--tb=no", "-q"],
-            capture_output=True, text=True, timeout=120,
+            capture_output=True,
+            text=True,
+            timeout=120,
         )
-        lines = result.stdout.strip().split("\n")
-        summary = lines[-1] if lines else ""
-        # Parse "X passed, Y failed" or "X passed"
+        output = f"{result.stdout}\n{result.stderr}"
         passed = total = 0
-        for part in summary.split(","):
-            part = part.strip()
-            if "passed" in part:
-                passed = int(part.split()[0])
-                total += passed
-            if "failed" in part:
-                total += int(part.split()[0])
+        passed_match = re.search(r"(\d+)\s+passed", output)
+        failed_match = re.search(r"(\d+)\s+failed", output)
+        if passed_match:
+            passed = int(passed_match.group(1))
+            total += passed
+        if failed_match:
+            total += int(failed_match.group(1))
         return passed, total
-    except Exception as e:
-        print(f"  ⚠️  pytest error: {e}")
+    except Exception as exc:
+        print(f"  pytest error: {exc}")
         return 0, 0
 
 
 def validate():
-    print("🔍 Kiểm tra bài nộp Lab 18: Production RAG\n")
+    print("Checking Lab 18 submission\n")
     errors = 0
 
-    # 1. Source files
-    print("📁 Source code:")
-    for f in ["src/m1_chunking.py", "src/m2_search.py", "src/m3_rerank.py",
-              "src/m4_eval.py", "src/pipeline.py"]:
-        if not check_file(f):
+    print("Source code:")
+    for path in ["src/m1_chunking.py", "src/m2_search.py", "src/m3_rerank.py", "src/m4_eval.py", "src/pipeline.py"]:
+        if not check_file(path):
             errors += 1
 
-    # 2. Reports
-    print("\n📊 Reports:")
+    print("\nReports:")
     if check_file("reports/ragas_report.json"):
         if not check_json("reports/ragas_report.json", ["aggregate", "num_questions"]):
             errors += 1
@@ -95,46 +85,41 @@ def validate():
         errors += 1
     check_file("reports/naive_baseline_report.json", required=False)
 
-    # 3. Analysis
-    print("\n📝 Analysis:")
+    print("\nAnalysis:")
     check_file("analysis/failure_analysis.md")
     check_file("analysis/group_report.md")
 
-    # 4. Individual reflections
-    print("\n👤 Individual reflections:")
-    reflections = []
+    print("\nIndividual reflections:")
     ref_dir = "analysis/reflections"
+    reflections = []
     if os.path.isdir(ref_dir):
         reflections = [f for f in os.listdir(ref_dir) if f.startswith("reflection_") and f.endswith(".md")]
     if reflections:
-        for r in reflections:
-            print(f"  ✅ {ref_dir}/{r}")
+        for reflection in reflections:
+            print(f"  OK: {ref_dir}/{reflection}")
     else:
-        print(f"  ⚠️  Chưa có file reflection cá nhân trong {ref_dir}/")
+        print(f"  Optional missing: {ref_dir}/reflection_*.md")
 
-    # 5. TODO count
-    print("\n🔧 TODO markers:")
+    print("\nTODO markers:")
     todo_count = check_todos()
     if todo_count == 0:
-        print("  ✅ Không còn TODO nào")
+        print("  OK: no TODO markers")
     else:
-        print(f"  ⚠️  Còn {todo_count} TODO chưa implement")
+        print(f"  WARN: {todo_count} TODO markers remain")
 
-    # 6. Tests
-    print("\n🧪 Auto-tests:")
+    print("\nAuto-tests:")
     passed, total = run_tests()
     if total > 0:
         pct = passed / total * 100
-        print(f"  {'✅' if pct >= 80 else '⚠️'} {passed}/{total} tests passed ({pct:.0f}%)")
+        print(f"  {'OK' if pct >= 80 else 'WARN'}: {passed}/{total} tests passed ({pct:.0f}%)")
     else:
-        print("  ⚠️  Không chạy được tests")
+        print("  WARN: tests did not run")
 
-    # 7. Summary
     print("\n" + "=" * 50)
     if errors == 0:
-        print("🚀 Bài lab sẵn sàng để nộp!")
+        print("Submission structure is ready.")
     else:
-        print(f"❌ Có {errors} lỗi. Sửa trước khi nộp.")
+        print(f"There are {errors} required-file/report errors.")
     print("=" * 50)
 
 

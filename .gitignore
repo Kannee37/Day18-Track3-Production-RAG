@@ -1,8 +1,41 @@
+# Environment and secrets
 .env
-.DS_Store
+.env.*
+!.env.example
+
+# Python
 __pycache__/
-*.pyc
-.pytest_cache/
-qdrant_data/
+*.py[cod]
+*$py.class
 *.egg-info/
-reports/*.json
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local services / generated runtime data
+qdrant_data/
+storage/
+
+# OCR / PDF conversion scratch files
+temp_*.png
+*_page_*.png
+
+# Model/cache directories
+.cache/
+models/
+hf_cache/
+
+docker-compose.yml

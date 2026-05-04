@@ -1,0 +1,429 @@
+{
+  "aggregate": {
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.6928814728156834,
+    "context_precision": 0.6295634271511465,
+    "context_recall": 0.7926665556845607
+  },
+  "num_questions": 24,
+  "per_question": [
+    {
+      "question": "Tên người nộp thuế trong tờ khai GTGT là gì?",
+      "answer": "Doan nay trich tu BCTC.md, noi ve Cam kết và chữ ký.\n\n## Cam kết và chữ ký\n\nTôi cam đoan số liệu khai trên là đúng và chịu trách nhiệm trước pháp luật về số liệu đã khai.\n\n**Ngày lập:** Ngày 24 tháng 01 năm 2025\n\n### Nhân viên đại lý thuế\n\n**Họ và tên:**  \n**Chứng chỉ hành nghề số:**\n\n### Người nộp thuế hoặc\n\nLikely questions:\n- Cam kết và chữ ký noi ve dieu gi?\n- Thong tin chinh cua Cam kết và chữ ký la gi?\n- Can luu y gi ve Cam kết và chữ ký?",
+      "contexts": [
+        "Doan nay trich tu BCTC.md, noi ve Cam kết và chữ ký.\n\n## Cam kết và chữ ký\n\nTôi cam đoan số liệu khai trên là đúng và chịu trách nhiệm trước pháp luật về số liệu đã khai.\n\n**Ngày lập:** Ngày 24 tháng 01 năm 2025\n\n### Nhân viên đại lý thuế\n\n**Họ và tên:**  \n**Chứng chỉ hành nghề số:**\n\n### Người nộp thuế hoặc\n\nLikely questions:\n- Cam kết và chữ ký noi ve dieu gi?\n- Thong tin chinh cua Cam kết và chữ ký la gi?\n- Can luu y gi ve Cam kết và chữ ký?",
+        "Doan nay trich tu BCTC.md, noi ve 9 năm 2021 của Bộ trưởng Bộ Tài chính..\n\n9 năm 2021 của Bộ trưởng Bộ Tài chính.\n\n## Thông tin tờ khai\n\n**Tên hoạt động sản xuất kinh doanh:** Hoạt động sản xuất kinh doanh thông thường  \n**Kỳ tính thuế:** Quý 4 năm 2024  \n**Lần đầu:** Không  \n**Bổ sung lần thứ:** 1\n\n**Tên người nộp thuế:** CÔNG\n\nLikely questions:\n- 9 năm 2021 của Bộ noi ve dieu gi?\n- Thong tin chinh cua 9 năm 2021 của Bộ la gi?\n- Can luu y gi ve 9 năm 2021 của Bộ?",
+        "Doan nay trich tu BCTC.md, noi ve ăng còn được khấu trừ kỳ trước chuyển sang | | [22] 77.377.503 |.\n\năng còn được khấu trừ kỳ trước chuyển sang | | [22] 77.377.503 |\n| C | Kê khai thuế giá trị gia tăng phải nộp ngân sách nhà nước | | |\n| I | Hàng hóa, dịch vụ mua vào trong kỳ | | |\n| 1 | Giá trị và thuế GTGT của hàng hóa, dịch vụ mua vào | [23]\n\nLikely questions:\n- ăng còn được khấu trừ noi ve dieu gi?\n- Thong tin chinh cua ăng còn được khấu trừ la gi?\n- Can luu y gi ve ăng còn được khấu trừ?"
+      ],
+      "ground_truth": "Tên người nộp thuế là CÔNG TY CỔ PHẦN DHA SURFACES.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.6,
+      "context_precision": 0.5666666666666667,
+      "context_recall": 0.5454545454545454
+    },
+    {
+      "question": "Mã số thuế của Công ty Cổ phần DHA Surfaces là gì?",
+      "answer": "Doan nay trich tu BCTC.md, noi ve ổ sung lần thứ:** 1.\n\nổ sung lần thứ:** 1\n\n**Tên người nộp thuế:** CÔNG TY CỔ PHẦN DHA SURFACES  \n**Mã số thuế:** 0106769437  \n**Tên đại lý thuế:**  \n**Mã số thuế đại lý thuế:**  \n**Hợp đồng đại lý thuế:** Số, ngày  \n**Tên đơn vị phụ thuộc/địa điểm kinh doanh của hoạt động sản\n\nLikely questions:\n- ổ sung lần thứ 1 noi ve dieu gi?\n- Thong tin chinh cua ổ sung lần thứ 1 la gi?\n- Can luu y gi ve ổ sung lần thứ 1?",
+      "contexts": [
+        "Doan nay trich tu BCTC.md, noi ve ổ sung lần thứ:** 1.\n\nổ sung lần thứ:** 1\n\n**Tên người nộp thuế:** CÔNG TY CỔ PHẦN DHA SURFACES  \n**Mã số thuế:** 0106769437  \n**Tên đại lý thuế:**  \n**Mã số thuế đại lý thuế:**  \n**Hợp đồng đại lý thuế:** Số, ngày  \n**Tên đơn vị phụ thuộc/địa điểm kinh doanh của hoạt động sản\n\nLikely questions:\n- ổ sung lần thứ 1 noi ve dieu gi?\n- Thong tin chinh cua ổ sung lần thứ 1 la gi?\n- Can luu y gi ve ổ sung lần thứ 1?",
+        "Doan nay trich tu BCTC.md, noi ve Chứng chỉ hành nghề số:**.\n\nChứng chỉ hành nghề số:**\n\n### Người nộp thuế hoặc đại diện hợp pháp của người nộp thuế\n\nKý, ghi rõ họ tên; chức vụ và đóng dấu nếu có hoặc ký điện tử.\n\n**Người ký:** TRỊNH THỊ SANG  \n**Ghi chú:** Ký điện tử bởi CÔNG TY CỔ PHẦN DHA SURFACES.\n\nLikely questions:\n- Chứng chỉ hành nghề số noi ve dieu gi?\n- Thong tin chinh cua Chứng chỉ hành nghề số la gi?\n- Can luu y gi ve Chứng chỉ hành nghề số?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve Hình ảnh của cá nhân;.\n\nHình ảnh của cá nhân;\n\ng) Số điện thoại, số chứng minh nhân dân, số định danh cá nhân, số hộ chiếu,\nsố giấy phép lái xe, số biển số xe, số mã số thuế cá nhân, số bảo hiểm xã hội,\nsố thẻ bảo hiểm y tế;\n\nh) Tình trạng hôn nhân;\n\ni) Thông tin về mối quan hệ\n\nLikely questions:\n- Hình ảnh của cá nhân noi ve dieu gi?\n- Thong tin chinh cua Hình ảnh của cá nhân la gi?\n- Can luu y gi ve Hình ảnh của cá nhân?"
+      ],
+      "ground_truth": "Mã số thuế của Công ty Cổ phần DHA Surfaces là 0106769437.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.8333333333333334,
+      "context_precision": 0.638888888888889,
+      "context_recall": 0.9166666666666666
+    },
+    {
+      "question": "Kỳ tính thuế của tờ khai GTGT là kỳ nào?",
+      "answer": "Doan nay trich tu BCTC.md, noi ve 9 năm 2021 của Bộ trưởng Bộ Tài chính..\n\n9 năm 2021 của Bộ trưởng Bộ Tài chính.\n\n## Thông tin tờ khai\n\n**Tên hoạt động sản xuất kinh doanh:** Hoạt động sản xuất kinh doanh thông thường  \n**Kỳ tính thuế:** Quý 4 năm 2024  \n**Lần đầu:** Không  \n**Bổ sung lần thứ:** 1\n\n**Tên người nộp thuế:** CÔNG\n\nLikely questions:\n- 9 năm 2021 của Bộ noi ve dieu gi?\n- Thong tin chinh cua 9 năm 2021 của Bộ la gi?\n- Can luu y gi ve 9 năm 2021 của Bộ?",
+      "contexts": [
+        "Doan nay trich tu BCTC.md, noi ve 9 năm 2021 của Bộ trưởng Bộ Tài chính..\n\n9 năm 2021 của Bộ trưởng Bộ Tài chính.\n\n## Thông tin tờ khai\n\n**Tên hoạt động sản xuất kinh doanh:** Hoạt động sản xuất kinh doanh thông thường  \n**Kỳ tính thuế:** Quý 4 năm 2024  \n**Lần đầu:** Không  \n**Bổ sung lần thứ:** 1\n\n**Tên người nộp thuế:** CÔNG\n\nLikely questions:\n- 9 năm 2021 của Bộ noi ve dieu gi?\n- Thong tin chinh cua 9 năm 2021 của Bộ la gi?\n- Can luu y gi ve 9 năm 2021 của Bộ?",
+        "Doan nay trich tu BCTC.md, noi ve Tờ khai thuế giá trị gia tăng - Mẫu số 01/GTGT.\n\n# Tờ khai thuế giá trị gia tăng - Mẫu số 01/GTGT\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**  \n**Độc lập - Tự do - Hạnh phúc**\n\n**Mẫu số:** 01/GTGT  \nBan hành kèm theo Thông tư số 80/2021/TT-BTC ngày 29 tháng 9 năm 2021 của Bộ trưởng Bộ Tài chính.\n\n## Thông\n\nLikely questions:\n- Tờ khai thuế giá trị noi ve dieu gi?\n- Thong tin chinh cua Tờ khai thuế giá trị la gi?\n- Can luu y gi ve Tờ khai thuế giá trị?",
+        "Doan nay trich tu BCTC.md, noi ve ăng còn được khấu trừ kỳ trước chuyển sang | | [22] 77.377.503 |.\n\năng còn được khấu trừ kỳ trước chuyển sang | | [22] 77.377.503 |\n| C | Kê khai thuế giá trị gia tăng phải nộp ngân sách nhà nước | | |\n| I | Hàng hóa, dịch vụ mua vào trong kỳ | | |\n| 1 | Giá trị và thuế GTGT của hàng hóa, dịch vụ mua vào | [23]\n\nLikely questions:\n- ăng còn được khấu trừ noi ve dieu gi?\n- Thong tin chinh cua ăng còn được khấu trừ la gi?\n- Can luu y gi ve ăng còn được khấu trừ?"
+      ],
+      "ground_truth": "Kỳ tính thuế là Quý 4 năm 2024.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.6666666666666666,
+      "context_precision": 0.5925925925925927,
+      "context_recall": 0.875
+    },
+    {
+      "question": "Tờ khai GTGT sử dụng mẫu số nào?",
+      "answer": "Doan nay trich tu BCTC.md, noi ve Tờ khai thuế giá trị gia tăng - Mẫu số 01/GTGT.\n\n# Tờ khai thuế giá trị gia tăng - Mẫu số 01/GTGT\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**  \n**Độc lập - Tự do - Hạnh phúc**\n\n**Mẫu số:** 01/GTGT  \nBan hành kèm theo Thông tư số 80/2021/TT-BTC ngày 29 tháng 9 năm 2021 của Bộ trưởng Bộ Tài chính.\n\n## Thông\n\nLikely questions:\n- Tờ khai thuế giá trị noi ve dieu gi?\n- Thong tin chinh cua Tờ khai thuế giá trị la gi?\n- Can luu y gi ve Tờ khai thuế giá trị?",
+      "contexts": [
+        "Doan nay trich tu BCTC.md, noi ve Tờ khai thuế giá trị gia tăng - Mẫu số 01/GTGT.\n\n# Tờ khai thuế giá trị gia tăng - Mẫu số 01/GTGT\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**  \n**Độc lập - Tự do - Hạnh phúc**\n\n**Mẫu số:** 01/GTGT  \nBan hành kèm theo Thông tư số 80/2021/TT-BTC ngày 29 tháng 9 năm 2021 của Bộ trưởng Bộ Tài chính.\n\n## Thông\n\nLikely questions:\n- Tờ khai thuế giá trị noi ve dieu gi?\n- Thong tin chinh cua Tờ khai thuế giá trị la gi?\n- Can luu y gi ve Tờ khai thuế giá trị?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve an.\n\nan\n(Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) theo Mẫu\nsố 06 tại Phụ lục của Nghị định này trong thời gian 60 ngày kể từ ngày tiến hành\nxử lý dữ liệu cá nhân.\n\n4. Bên chuyển dữ liệu thông báo gửi Bộ Công an (Cục An ninh mạng và\n\nLikely questions:\n- an Cục An ninh mạng noi ve dieu gi?\n- Thong tin chinh cua an Cục An ninh mạng la gi?\n- Can luu y gi ve an Cục An ninh mạng?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve dung hồ sơ.\n\ndung hồ sơ  \nMẫu số 06: Hồ sơ đánh giá tác động chuyển dữ liệu cá nhân ra nước ngoài\n\nLikely questions:\n- dung hồ sơ Mẫu số noi ve dieu gi?\n- Thong tin chinh cua dung hồ sơ Mẫu số la gi?\n- Can luu y gi ve dung hồ sơ Mẫu số?"
+      ],
+      "ground_truth": "Tờ khai GTGT sử dụng Mẫu số 01/GTGT.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.625,
+      "context_precision": 0.4583333333333333,
+      "context_recall": 1.0
+    },
+    {
+      "question": "Thuế GTGT còn được khấu trừ kỳ trước chuyển sang là bao nhiêu?",
+      "answer": "Doan nay trich tu BCTC.md, noi ve ăng còn được khấu trừ kỳ trước chuyển sang | | [22] 77.377.503 |.\n\năng còn được khấu trừ kỳ trước chuyển sang | | [22] 77.377.503 |\n| C | Kê khai thuế giá trị gia tăng phải nộp ngân sách nhà nước | | |\n| I | Hàng hóa, dịch vụ mua vào trong kỳ | | |\n| 1 | Giá trị và thuế GTGT của hàng hóa, dịch vụ mua vào | [23]\n\nLikely questions:\n- ăng còn được khấu trừ noi ve dieu gi?\n- Thong tin chinh cua ăng còn được khấu trừ la gi?\n- Can luu y gi ve ăng còn được khấu trừ?",
+      "contexts": [
+        "Doan nay trich tu BCTC.md, noi ve ăng còn được khấu trừ kỳ trước chuyển sang | | [22] 77.377.503 |.\n\năng còn được khấu trừ kỳ trước chuyển sang | | [22] 77.377.503 |\n| C | Kê khai thuế giá trị gia tăng phải nộp ngân sách nhà nước | | |\n| I | Hàng hóa, dịch vụ mua vào trong kỳ | | |\n| 1 | Giá trị và thuế GTGT của hàng hóa, dịch vụ mua vào | [23]\n\nLikely questions:\n- ăng còn được khấu trừ noi ve dieu gi?\n- Thong tin chinh cua ăng còn được khấu trừ la gi?\n- Can luu y gi ve ăng còn được khấu trừ?",
+        "Doan nay trich tu BCTC.md, noi ve | STT | Chỉ tiêu | Giá trị hàng hóa, dịch vụ chưa có thuế GTGT | Thuế GTGT |.\n\n| STT | Chỉ tiêu | Giá trị hàng hóa, dịch vụ chưa có thuế GTGT | Thuế GTGT |\n| --- | --- | ---: | ---: |\n| A | Không phát sinh hoạt động mua, bán trong kỳ (đánh dấu \"X\") | [21] | |\n| B | Thuế giá trị gia tăng còn được khấu trừ kỳ trước chuyển sang | |\n\nLikely questions:\n- STT Chỉ tiêu Giá trị noi ve dieu gi?\n- Thong tin chinh cua STT Chỉ tiêu Giá trị la gi?\n- Can luu y gi ve STT Chỉ tiêu Giá trị?",
+        "Doan nay trich tu BCTC.md, noi ve | 4.2 | Thuế giá trị gia tăng còn được khấu trừ chuyển kỳ sau ([43] = [41] - [42.\n\n| 4.2 | Thuế giá trị gia tăng còn được khấu trừ chuyển kỳ sau ([43] = [41] - [42]) | | [43] 0 |\n\nLikely questions:\n- 4 2 Thuế giá trị noi ve dieu gi?\n- Thong tin chinh cua 4 2 Thuế giá trị la gi?\n- Can luu y gi ve 4 2 Thuế giá trị?"
+      ],
+      "ground_truth": "Thuế GTGT còn được khấu trừ kỳ trước chuyển sang là 77.377.503 đồng.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.7692307692307693,
+      "context_precision": 0.6923076923076924,
+      "context_recall": 0.8666666666666667
+    },
+    {
+      "question": "Giá trị hàng hóa, dịch vụ mua vào trong kỳ là bao nhiêu?",
+      "answer": "Doan nay trich tu BCTC.md, noi ve ăng còn được khấu trừ kỳ trước chuyển sang | | [22] 77.377.503 |.\n\năng còn được khấu trừ kỳ trước chuyển sang | | [22] 77.377.503 |\n| C | Kê khai thuế giá trị gia tăng phải nộp ngân sách nhà nước | | |\n| I | Hàng hóa, dịch vụ mua vào trong kỳ | | |\n| 1 | Giá trị và thuế GTGT của hàng hóa, dịch vụ mua vào | [23]\n\nLikely questions:\n- ăng còn được khấu trừ noi ve dieu gi?\n- Thong tin chinh cua ăng còn được khấu trừ la gi?\n- Can luu y gi ve ăng còn được khấu trừ?",
+      "contexts": [
+        "Doan nay trich tu BCTC.md, noi ve ăng còn được khấu trừ kỳ trước chuyển sang | | [22] 77.377.503 |.\n\năng còn được khấu trừ kỳ trước chuyển sang | | [22] 77.377.503 |\n| C | Kê khai thuế giá trị gia tăng phải nộp ngân sách nhà nước | | |\n| I | Hàng hóa, dịch vụ mua vào trong kỳ | | |\n| 1 | Giá trị và thuế GTGT của hàng hóa, dịch vụ mua vào | [23]\n\nLikely questions:\n- ăng còn được khấu trừ noi ve dieu gi?\n- Thong tin chinh cua ăng còn được khấu trừ la gi?\n- Can luu y gi ve ăng còn được khấu trừ?",
+        "Doan nay trich tu BCTC.md, noi ve | STT | Chỉ tiêu | Giá trị hàng hóa, dịch vụ chưa có thuế GTGT | Thuế GTGT |.\n\n| STT | Chỉ tiêu | Giá trị hàng hóa, dịch vụ chưa có thuế GTGT | Thuế GTGT |\n| --- | --- | ---: | ---: |\n| A | Không phát sinh hoạt động mua, bán trong kỳ (đánh dấu \"X\") | [21] | |\n| B | Thuế giá trị gia tăng còn được khấu trừ kỳ trước chuyển sang | |\n\nLikely questions:\n- STT Chỉ tiêu Giá trị noi ve dieu gi?\n- Thong tin chinh cua STT Chỉ tiêu Giá trị la gi?\n- Can luu y gi ve STT Chỉ tiêu Giá trị?",
+        "Doan nay trich tu BCTC.md, noi ve TGT của hàng hóa, dịch vụ mua vào | [23] 2.405.743.241 | [24] 215.163.767 |.\n\nTGT của hàng hóa, dịch vụ mua vào | [23] 2.405.743.241 | [24] 215.163.767 |\n| | Trong đó: hàng hóa, dịch vụ nhập khẩu | [23a] 0 | [24a] 0 |\n| 2 | Thuế GTGT của hàng hóa, dịch vụ mua vào được khấu trừ kỳ này | | [25] 215.163.767 |\n| II | Hàng hóa, dịch vụ\n\nLikely questions:\n- TGT của hàng hóa dịch noi ve dieu gi?\n- Thong tin chinh cua TGT của hàng hóa dịch la gi?\n- Can luu y gi ve TGT của hàng hóa dịch?"
+      ],
+      "ground_truth": "Giá trị hàng hóa, dịch vụ mua vào trong kỳ là 2.405.743.241 đồng.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.7692307692307693,
+      "context_precision": 0.6923076923076924,
+      "context_recall": 0.875
+    },
+    {
+      "question": "Thuế GTGT của hàng hóa, dịch vụ mua vào là bao nhiêu?",
+      "answer": "Doan nay trich tu BCTC.md, noi ve TGT của hàng hóa, dịch vụ mua vào | [23] 2.405.743.241 | [24] 215.163.767 |.\n\nTGT của hàng hóa, dịch vụ mua vào | [23] 2.405.743.241 | [24] 215.163.767 |\n| | Trong đó: hàng hóa, dịch vụ nhập khẩu | [23a] 0 | [24a] 0 |\n| 2 | Thuế GTGT của hàng hóa, dịch vụ mua vào được khấu trừ kỳ này | | [25] 215.163.767 |\n| II | Hàng hóa, dịch vụ\n\nLikely questions:\n- TGT của hàng hóa dịch noi ve dieu gi?\n- Thong tin chinh cua TGT của hàng hóa dịch la gi?\n- Can luu y gi ve TGT của hàng hóa dịch?",
+      "contexts": [
+        "Doan nay trich tu BCTC.md, noi ve TGT của hàng hóa, dịch vụ mua vào | [23] 2.405.743.241 | [24] 215.163.767 |.\n\nTGT của hàng hóa, dịch vụ mua vào | [23] 2.405.743.241 | [24] 215.163.767 |\n| | Trong đó: hàng hóa, dịch vụ nhập khẩu | [23a] 0 | [24a] 0 |\n| 2 | Thuế GTGT của hàng hóa, dịch vụ mua vào được khấu trừ kỳ này | | [25] 215.163.767 |\n| II | Hàng hóa, dịch vụ\n\nLikely questions:\n- TGT của hàng hóa dịch noi ve dieu gi?\n- Thong tin chinh cua TGT của hàng hóa dịch la gi?\n- Can luu y gi ve TGT của hàng hóa dịch?",
+        "Doan nay trich tu BCTC.md, noi ve ăng còn được khấu trừ kỳ trước chuyển sang | | [22] 77.377.503 |.\n\năng còn được khấu trừ kỳ trước chuyển sang | | [22] 77.377.503 |\n| C | Kê khai thuế giá trị gia tăng phải nộp ngân sách nhà nước | | |\n| I | Hàng hóa, dịch vụ mua vào trong kỳ | | |\n| 1 | Giá trị và thuế GTGT của hàng hóa, dịch vụ mua vào | [23]\n\nLikely questions:\n- ăng còn được khấu trừ noi ve dieu gi?\n- Thong tin chinh cua ăng còn được khấu trừ la gi?\n- Can luu y gi ve ăng còn được khấu trừ?",
+        "Doan nay trich tu BCTC.md, noi ve | STT | Chỉ tiêu | Giá trị hàng hóa, dịch vụ chưa có thuế GTGT | Thuế GTGT |.\n\n| STT | Chỉ tiêu | Giá trị hàng hóa, dịch vụ chưa có thuế GTGT | Thuế GTGT |\n| --- | --- | ---: | ---: |\n| A | Không phát sinh hoạt động mua, bán trong kỳ (đánh dấu \"X\") | [21] | |\n| B | Thuế giá trị gia tăng còn được khấu trừ kỳ trước chuyển sang | |\n\nLikely questions:\n- STT Chỉ tiêu Giá trị noi ve dieu gi?\n- Thong tin chinh cua STT Chỉ tiêu Giá trị la gi?\n- Can luu y gi ve STT Chỉ tiêu Giá trị?"
+      ],
+      "ground_truth": "Thuế GTGT của hàng hóa, dịch vụ mua vào là 215.163.767 đồng.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.75,
+      "context_precision": 0.6944444444444445,
+      "context_recall": 0.8571428571428571
+    },
+    {
+      "question": "Tổng doanh thu hàng hóa, dịch vụ bán ra là bao nhiêu?",
+      "answer": "Doan nay trich tu BCTC.md, noi ve chịu thuế suất 10% | [32] 3.703.685.610 | [33] 344.675.400 |.\n\nchịu thuế suất 10% | [32] 3.703.685.610 | [33] 344.675.400 |\n| d | Hàng hóa, dịch vụ bán ra không tính thuế | [32a] 0 | |\n| 3 | Tổng doanh thu và thuế GTGT của hàng hóa, dịch vụ bán ra | [34] 3.703.685.610 | [35] 344.675.400 |\n| III | Thuế giá trị gia\n\nLikely questions:\n- chịu thuế suất 10 32 noi ve dieu gi?\n- Thong tin chinh cua chịu thuế suất 10 32 la gi?\n- Can luu y gi ve chịu thuế suất 10 32?",
+      "contexts": [
+        "Doan nay trich tu BCTC.md, noi ve chịu thuế suất 10% | [32] 3.703.685.610 | [33] 344.675.400 |.\n\nchịu thuế suất 10% | [32] 3.703.685.610 | [33] 344.675.400 |\n| d | Hàng hóa, dịch vụ bán ra không tính thuế | [32a] 0 | |\n| 3 | Tổng doanh thu và thuế GTGT của hàng hóa, dịch vụ bán ra | [34] 3.703.685.610 | [35] 344.675.400 |\n| III | Thuế giá trị gia\n\nLikely questions:\n- chịu thuế suất 10 32 noi ve dieu gi?\n- Thong tin chinh cua chịu thuế suất 10 32 la gi?\n- Can luu y gi ve chịu thuế suất 10 32?",
+        "Doan nay trich tu BCTC.md, noi ve y | | [25] 215.163.767 |.\n\ny | | [25] 215.163.767 |\n| II | Hàng hóa, dịch vụ bán ra trong kỳ | | |\n| 1 | Hàng hóa, dịch vụ bán ra không chịu thuế giá trị gia tăng | [26] 0 | |\n| 2 | Hàng hóa, dịch vụ bán ra chịu thuế giá trị gia tăng | [27] 3.703.688.610 | [28] 344.675.400 |\n| a |\n\nLikely questions:\n- y 25 215 163 767 noi ve dieu gi?\n- Thong tin chinh cua y 25 215 163 767 la gi?\n- Can luu y gi ve y 25 215 163 767?",
+        "Doan nay trich tu BCTC.md, noi ve g | [27] 3.703.688.610 | [28] 344.675.400 |.\n\ng | [27] 3.703.688.610 | [28] 344.675.400 |\n| a | Hàng hóa, dịch vụ bán ra chịu thuế suất 0% | [29] 0 | |\n| b | Hàng hóa, dịch vụ bán ra chịu thuế suất 5% | [30] 0 | [31] 0 |\n| c | Hàng hóa, dịch vụ bán ra chịu thuế suất 10% | [32] 3.703.685.610 | [33]\n\nLikely questions:\n- g 27 3 703 688 noi ve dieu gi?\n- Thong tin chinh cua g 27 3 703 688 la gi?\n- Can luu y gi ve g 27 3 703 688?"
+      ],
+      "ground_truth": "Tổng doanh thu hàng hóa, dịch vụ bán ra là 3.703.685.610 đồng.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.75,
+      "context_precision": 0.5833333333333334,
+      "context_recall": 0.8666666666666667
+    },
+    {
+      "question": "Thuế GTGT của hàng hóa, dịch vụ bán ra là bao nhiêu?",
+      "answer": "Doan nay trich tu BCTC.md, noi ve chịu thuế suất 10% | [32] 3.703.685.610 | [33] 344.675.400 |.\n\nchịu thuế suất 10% | [32] 3.703.685.610 | [33] 344.675.400 |\n| d | Hàng hóa, dịch vụ bán ra không tính thuế | [32a] 0 | |\n| 3 | Tổng doanh thu và thuế GTGT của hàng hóa, dịch vụ bán ra | [34] 3.703.685.610 | [35] 344.675.400 |\n| III | Thuế giá trị gia\n\nLikely questions:\n- chịu thuế suất 10 32 noi ve dieu gi?\n- Thong tin chinh cua chịu thuế suất 10 32 la gi?\n- Can luu y gi ve chịu thuế suất 10 32?",
+      "contexts": [
+        "Doan nay trich tu BCTC.md, noi ve chịu thuế suất 10% | [32] 3.703.685.610 | [33] 344.675.400 |.\n\nchịu thuế suất 10% | [32] 3.703.685.610 | [33] 344.675.400 |\n| d | Hàng hóa, dịch vụ bán ra không tính thuế | [32a] 0 | |\n| 3 | Tổng doanh thu và thuế GTGT của hàng hóa, dịch vụ bán ra | [34] 3.703.685.610 | [35] 344.675.400 |\n| III | Thuế giá trị gia\n\nLikely questions:\n- chịu thuế suất 10 32 noi ve dieu gi?\n- Thong tin chinh cua chịu thuế suất 10 32 la gi?\n- Can luu y gi ve chịu thuế suất 10 32?",
+        "Doan nay trich tu BCTC.md, noi ve TGT của hàng hóa, dịch vụ mua vào | [23] 2.405.743.241 | [24] 215.163.767 |.\n\nTGT của hàng hóa, dịch vụ mua vào | [23] 2.405.743.241 | [24] 215.163.767 |\n| | Trong đó: hàng hóa, dịch vụ nhập khẩu | [23a] 0 | [24a] 0 |\n| 2 | Thuế GTGT của hàng hóa, dịch vụ mua vào được khấu trừ kỳ này | | [25] 215.163.767 |\n| II | Hàng hóa, dịch vụ\n\nLikely questions:\n- TGT của hàng hóa dịch noi ve dieu gi?\n- Thong tin chinh cua TGT của hàng hóa dịch la gi?\n- Can luu y gi ve TGT của hàng hóa dịch?",
+        "Doan nay trich tu BCTC.md, noi ve y | | [25] 215.163.767 |.\n\ny | | [25] 215.163.767 |\n| II | Hàng hóa, dịch vụ bán ra trong kỳ | | |\n| 1 | Hàng hóa, dịch vụ bán ra không chịu thuế giá trị gia tăng | [26] 0 | |\n| 2 | Hàng hóa, dịch vụ bán ra chịu thuế giá trị gia tăng | [27] 3.703.688.610 | [28] 344.675.400 |\n| a |\n\nLikely questions:\n- y 25 215 163 767 noi ve dieu gi?\n- Thong tin chinh cua y 25 215 163 767 la gi?\n- Can luu y gi ve y 25 215 163 767?"
+      ],
+      "ground_truth": "Thuế GTGT của hàng hóa, dịch vụ bán ra là 344.675.400 đồng.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.75,
+      "context_precision": 0.638888888888889,
+      "context_recall": 0.8571428571428571
+    },
+    {
+      "question": "Thuế GTGT phát sinh trong kỳ là bao nhiêu?",
+      "answer": "Doan nay trich tu BCTC.md, noi ve | STT | Chỉ tiêu | Giá trị hàng hóa, dịch vụ chưa có thuế GTGT | Thuế GTGT |.\n\n| STT | Chỉ tiêu | Giá trị hàng hóa, dịch vụ chưa có thuế GTGT | Thuế GTGT |\n| --- | --- | ---: | ---: |\n| A | Không phát sinh hoạt động mua, bán trong kỳ (đánh dấu \"X\") | [21] | |\n| B | Thuế giá trị gia tăng còn được khấu trừ kỳ trước chuyển sang | |\n\nLikely questions:\n- STT Chỉ tiêu Giá trị noi ve dieu gi?\n- Thong tin chinh cua STT Chỉ tiêu Giá trị la gi?\n- Can luu y gi ve STT Chỉ tiêu Giá trị?",
+      "contexts": [
+        "Doan nay trich tu BCTC.md, noi ve | STT | Chỉ tiêu | Giá trị hàng hóa, dịch vụ chưa có thuế GTGT | Thuế GTGT |.\n\n| STT | Chỉ tiêu | Giá trị hàng hóa, dịch vụ chưa có thuế GTGT | Thuế GTGT |\n| --- | --- | ---: | ---: |\n| A | Không phát sinh hoạt động mua, bán trong kỳ (đánh dấu \"X\") | [21] | |\n| B | Thuế giá trị gia tăng còn được khấu trừ kỳ trước chuyển sang | |\n\nLikely questions:\n- STT Chỉ tiêu Giá trị noi ve dieu gi?\n- Thong tin chinh cua STT Chỉ tiêu Giá trị la gi?\n- Can luu y gi ve STT Chỉ tiêu Giá trị?",
+        "Doan nay trich tu BCTC.md, noi ve 0 | [35] 344.675.400 |.\n\n0 | [35] 344.675.400 |\n| III | Thuế giá trị gia tăng phát sinh trong kỳ ([36] = [35] - [25]) | | [36] 129.511.633 |\n| IV | Điều chỉnh tăng, giảm thuế giá trị gia tăng còn được khấu trừ của các kỳ trước | | |\n| 1 | Điều chỉnh giảm | | [37] 0 |\n| 2 | Điều\n\nLikely questions:\n- 0 35 344 675 400 noi ve dieu gi?\n- Thong tin chinh cua 0 35 344 675 400 la gi?\n- Can luu y gi ve 0 35 344 675 400?",
+        "Doan nay trich tu BCTC.md, noi ve ăng còn được khấu trừ kỳ trước chuyển sang | | [22] 77.377.503 |.\n\năng còn được khấu trừ kỳ trước chuyển sang | | [22] 77.377.503 |\n| C | Kê khai thuế giá trị gia tăng phải nộp ngân sách nhà nước | | |\n| I | Hàng hóa, dịch vụ mua vào trong kỳ | | |\n| 1 | Giá trị và thuế GTGT của hàng hóa, dịch vụ mua vào | [23]\n\nLikely questions:\n- ăng còn được khấu trừ noi ve dieu gi?\n- Thong tin chinh cua ăng còn được khấu trừ la gi?\n- Can luu y gi ve ăng còn được khấu trừ?"
+      ],
+      "ground_truth": "Thuế GTGT phát sinh trong kỳ là 129.511.633 đồng.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.6666666666666666,
+      "context_precision": 0.5555555555555556,
+      "context_recall": 0.8181818181818182
+    },
+    {
+      "question": "Thuế GTGT còn phải nộp trong kỳ là bao nhiêu?",
+      "answer": "Doan nay trich tu BCTC.md, noi ve ăng còn được khấu trừ kỳ trước chuyển sang | | [22] 77.377.503 |.\n\năng còn được khấu trừ kỳ trước chuyển sang | | [22] 77.377.503 |\n| C | Kê khai thuế giá trị gia tăng phải nộp ngân sách nhà nước | | |\n| I | Hàng hóa, dịch vụ mua vào trong kỳ | | |\n| 1 | Giá trị và thuế GTGT của hàng hóa, dịch vụ mua vào | [23]\n\nLikely questions:\n- ăng còn được khấu trừ noi ve dieu gi?\n- Thong tin chinh cua ăng còn được khấu trừ la gi?\n- Can luu y gi ve ăng còn được khấu trừ?",
+      "contexts": [
+        "Doan nay trich tu BCTC.md, noi ve ăng còn được khấu trừ kỳ trước chuyển sang | | [22] 77.377.503 |.\n\năng còn được khấu trừ kỳ trước chuyển sang | | [22] 77.377.503 |\n| C | Kê khai thuế giá trị gia tăng phải nộp ngân sách nhà nước | | |\n| I | Hàng hóa, dịch vụ mua vào trong kỳ | | |\n| 1 | Giá trị và thuế GTGT của hàng hóa, dịch vụ mua vào | [23]\n\nLikely questions:\n- ăng còn được khấu trừ noi ve dieu gi?\n- Thong tin chinh cua ăng còn được khấu trừ la gi?\n- Can luu y gi ve ăng còn được khấu trừ?",
+        "Doan nay trich tu BCTC.md, noi ve ộp trong kỳ | | |.\n\nộp trong kỳ | | |\n| 1 | Thuế giá trị gia tăng phải nộp của hoạt động sản xuất kinh doanh trong kỳ | | [40a] 52.133.830 |\n| 2 | Thuế giá trị gia tăng mua vào của dự án đầu tư được khấu trừ | | [40b] 0 |\n| 3 | Thuế giá trị gia tăng còn phải nộp trong kỳ | |\n\nLikely questions:\n- ộp trong kỳ 1 Thuế noi ve dieu gi?\n- Thong tin chinh cua ộp trong kỳ 1 Thuế la gi?\n- Can luu y gi ve ộp trong kỳ 1 Thuế?",
+        "Doan nay trich tu BCTC.md, noi ve | Thuế giá trị gia tăng còn phải nộp trong kỳ | | [40] 52.133.830 |.\n\n| Thuế giá trị gia tăng còn phải nộp trong kỳ | | [40] 52.133.830 |\n| 4 | Thuế giá trị gia tăng chưa khấu trừ hết kỳ này | | [41] 0 |\n| 4.1 | Thuế giá trị gia tăng đề nghị hoàn ([42] <= [41]) | | [42] 0 |\n| 4.2 | Thuế giá trị gia tăng còn được khấu trừ\n\nLikely questions:\n- Thuế giá trị gia tăng noi ve dieu gi?\n- Thong tin chinh cua Thuế giá trị gia tăng la gi?\n- Can luu y gi ve Thuế giá trị gia tăng?"
+      ],
+      "ground_truth": "Thuế GTGT còn phải nộp trong kỳ là 52.133.830 đồng.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.7,
+      "context_precision": 0.6333333333333333,
+      "context_recall": 0.8333333333333334
+    },
+    {
+      "question": "Ai là người ký tờ khai GTGT?",
+      "answer": "Doan nay trich tu BCTC.md, noi ve Cam kết và chữ ký.\n\n## Cam kết và chữ ký\n\nTôi cam đoan số liệu khai trên là đúng và chịu trách nhiệm trước pháp luật về số liệu đã khai.\n\n**Ngày lập:** Ngày 24 tháng 01 năm 2025\n\n### Nhân viên đại lý thuế\n\n**Họ và tên:**  \n**Chứng chỉ hành nghề số:**\n\n### Người nộp thuế hoặc\n\nLikely questions:\n- Cam kết và chữ ký noi ve dieu gi?\n- Thong tin chinh cua Cam kết và chữ ký la gi?\n- Can luu y gi ve Cam kết và chữ ký?",
+      "contexts": [
+        "Doan nay trich tu BCTC.md, noi ve Cam kết và chữ ký.\n\n## Cam kết và chữ ký\n\nTôi cam đoan số liệu khai trên là đúng và chịu trách nhiệm trước pháp luật về số liệu đã khai.\n\n**Ngày lập:** Ngày 24 tháng 01 năm 2025\n\n### Nhân viên đại lý thuế\n\n**Họ và tên:**  \n**Chứng chỉ hành nghề số:**\n\n### Người nộp thuế hoặc\n\nLikely questions:\n- Cam kết và chữ ký noi ve dieu gi?\n- Thong tin chinh cua Cam kết và chữ ký la gi?\n- Can luu y gi ve Cam kết và chữ ký?",
+        "Doan nay trich tu BCTC.md, noi ve Tờ khai thuế giá trị gia tăng - Mẫu số 01/GTGT.\n\n# Tờ khai thuế giá trị gia tăng - Mẫu số 01/GTGT\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**  \n**Độc lập - Tự do - Hạnh phúc**\n\n**Mẫu số:** 01/GTGT  \nBan hành kèm theo Thông tư số 80/2021/TT-BTC ngày 29 tháng 9 năm 2021 của Bộ trưởng Bộ Tài chính.\n\n## Thông\n\nLikely questions:\n- Tờ khai thuế giá trị noi ve dieu gi?\n- Thong tin chinh cua Tờ khai thuế giá trị la gi?\n- Can luu y gi ve Tờ khai thuế giá trị?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve đây được hiểu như sau:.\n\nđây được hiểu như sau:\n\n1. Dữ liệu cá nhân là thông tin dưới dạng ký hiệu, chữ viết, chữ số, hình\nảnh, âm thanh hoặc dạng tương tự trên môi trường điện tử gắn với một con\nngười cụ thể hoặc giúp xác định một con người cụ thể. Dữ liệu cá nhân bao\ngồm dữ\n\nLikely questions:\n- đây được hiểu như sau noi ve dieu gi?\n- Thong tin chinh cua đây được hiểu như sau la gi?\n- Can luu y gi ve đây được hiểu như sau?"
+      ],
+      "ground_truth": "Người ký tờ khai GTGT là TRỊNH THỊ SANG.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.5714285714285714,
+      "context_precision": 0.4761904761904762,
+      "context_recall": 0.6666666666666666
+    },
+    {
+      "question": "Nghị định 13/2023/NĐ-CP được ban hành ngày nào?",
+      "answer": "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve Cơ quan phát hành: Văn phòng Chính phủ.\n\nCơ quan phát hành: Văn phòng Chính phủ\n\nCHÍNH PHỦ                         CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nSố: 13/2023/NĐ-CP                Độc lập - Tự do - Hạnh phúc\n                                  Hà Nội, ngày 17 tháng 4 năm 2023\n\nNGHỊ ĐỊNH\nBảo vệ\n\nLikely questions:\n- Cơ quan phát hành Văn noi ve dieu gi?\n- Thong tin chinh cua Cơ quan phát hành Văn la gi?\n- Can luu y gi ve Cơ quan phát hành Văn?",
+      "contexts": [
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve Cơ quan phát hành: Văn phòng Chính phủ.\n\nCơ quan phát hành: Văn phòng Chính phủ\n\nCHÍNH PHỦ                         CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nSố: 13/2023/NĐ-CP                Độc lập - Tự do - Hạnh phúc\n                                  Hà Nội, ngày 17 tháng 4 năm 2023\n\nNGHỊ ĐỊNH\nBảo vệ\n\nLikely questions:\n- Cơ quan phát hành Văn noi ve dieu gi?\n- Thong tin chinh cua Cơ quan phát hành Văn la gi?\n- Can luu y gi ve Cơ quan phát hành Văn?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve n hướng dẫn thực hiện;.\n\nn hướng dẫn thực hiện;\n2. Các bộ, ngành, địa phương chịu trách nhiệm thi hành.\n\n------------------------------------------------------------\n\nTM. CHÍNH PHỦ\nKT. THỦ TƯỚNG\nPHÓ THỦ TƯỚNG\n\nTrần Lưu Quang\n\nPhụ lục\n(Kèm theo Nghị định số 13/2023/NĐ-CP ngày 17\n\nLikely questions:\n- n hướng dẫn thực hiện noi ve dieu gi?\n- Thong tin chinh cua n hướng dẫn thực hiện la gi?\n- Can luu y gi ve n hướng dẫn thực hiện?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve lục.\n\nlục\n(Kèm theo Nghị định số 13/2023/NĐ-CP ngày 17 tháng 4 năm 2023 của Chính phủ)\n\nMẫu số 01: Phiếu yêu cầu cung cấp dữ liệu cá nhân (dành cho cá nhân)  \nMẫu số 02: Phiếu yêu cầu cung cấp dữ liệu cá nhân (dành cho tổ chức, doanh nghiệp)  \nMẫu số 03: Thông\n\nLikely questions:\n- lục Kèm theo Nghị định noi ve dieu gi?\n- Thong tin chinh cua lục Kèm theo Nghị định la gi?\n- Can luu y gi ve lục Kèm theo Nghị định?"
+      ],
+      "ground_truth": "Nghị định 13/2023/NĐ-CP được ban hành tại Hà Nội ngày 17 tháng 4 năm 2023.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.7272727272727273,
+      "context_precision": 0.6969696969696969,
+      "context_recall": 0.8235294117647058
+    },
+    {
+      "question": "Nghị định 13/2023/NĐ-CP quy định về vấn đề gì?",
+      "answer": "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve lục.\n\nlục\n(Kèm theo Nghị định số 13/2023/NĐ-CP ngày 17 tháng 4 năm 2023 của Chính phủ)\n\nMẫu số 01: Phiếu yêu cầu cung cấp dữ liệu cá nhân (dành cho cá nhân)  \nMẫu số 02: Phiếu yêu cầu cung cấp dữ liệu cá nhân (dành cho tổ chức, doanh nghiệp)  \nMẫu số 03: Thông\n\nLikely questions:\n- lục Kèm theo Nghị định noi ve dieu gi?\n- Thong tin chinh cua lục Kèm theo Nghị định la gi?\n- Can luu y gi ve lục Kèm theo Nghị định?",
+      "contexts": [
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve lục.\n\nlục\n(Kèm theo Nghị định số 13/2023/NĐ-CP ngày 17 tháng 4 năm 2023 của Chính phủ)\n\nMẫu số 01: Phiếu yêu cầu cung cấp dữ liệu cá nhân (dành cho cá nhân)  \nMẫu số 02: Phiếu yêu cầu cung cấp dữ liệu cá nhân (dành cho tổ chức, doanh nghiệp)  \nMẫu số 03: Thông\n\nLikely questions:\n- lục Kèm theo Nghị định noi ve dieu gi?\n- Thong tin chinh cua lục Kèm theo Nghị định la gi?\n- Can luu y gi ve lục Kèm theo Nghị định?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve Cơ quan phát hành: Văn phòng Chính phủ.\n\nCơ quan phát hành: Văn phòng Chính phủ\n\nCHÍNH PHỦ                         CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nSố: 13/2023/NĐ-CP                Độc lập - Tự do - Hạnh phúc\n                                  Hà Nội, ngày 17 tháng 4 năm 2023\n\nNGHỊ ĐỊNH\nBảo vệ\n\nLikely questions:\n- Cơ quan phát hành Văn noi ve dieu gi?\n- Thong tin chinh cua Cơ quan phát hành Văn la gi?\n- Can luu y gi ve Cơ quan phát hành Văn?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve n hướng dẫn thực hiện;.\n\nn hướng dẫn thực hiện;\n2. Các bộ, ngành, địa phương chịu trách nhiệm thi hành.\n\n------------------------------------------------------------\n\nTM. CHÍNH PHỦ\nKT. THỦ TƯỚNG\nPHÓ THỦ TƯỚNG\n\nTrần Lưu Quang\n\nPhụ lục\n(Kèm theo Nghị định số 13/2023/NĐ-CP ngày 17\n\nLikely questions:\n- n hướng dẫn thực hiện noi ve dieu gi?\n- Thong tin chinh cua n hướng dẫn thực hiện la gi?\n- Can luu y gi ve n hướng dẫn thực hiện?"
+      ],
+      "ground_truth": "Nghị định 13/2023/NĐ-CP quy định về bảo vệ dữ liệu cá nhân và trách nhiệm bảo vệ dữ liệu cá nhân của cơ quan, tổ chức, cá nhân có liên quan.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.5454545454545454,
+      "context_precision": 0.5454545454545454,
+      "context_recall": 0.7916666666666666
+    },
+    {
+      "question": "Theo Nghị định 13/2023, dữ liệu cá nhân là gì?",
+      "answer": "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve lục.\n\nlục\n(Kèm theo Nghị định số 13/2023/NĐ-CP ngày 17 tháng 4 năm 2023 của Chính phủ)\n\nMẫu số 01: Phiếu yêu cầu cung cấp dữ liệu cá nhân (dành cho cá nhân)  \nMẫu số 02: Phiếu yêu cầu cung cấp dữ liệu cá nhân (dành cho tổ chức, doanh nghiệp)  \nMẫu số 03: Thông\n\nLikely questions:\n- lục Kèm theo Nghị định noi ve dieu gi?\n- Thong tin chinh cua lục Kèm theo Nghị định la gi?\n- Can luu y gi ve lục Kèm theo Nghị định?",
+      "contexts": [
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve lục.\n\nlục\n(Kèm theo Nghị định số 13/2023/NĐ-CP ngày 17 tháng 4 năm 2023 của Chính phủ)\n\nMẫu số 01: Phiếu yêu cầu cung cấp dữ liệu cá nhân (dành cho cá nhân)  \nMẫu số 02: Phiếu yêu cầu cung cấp dữ liệu cá nhân (dành cho tổ chức, doanh nghiệp)  \nMẫu số 03: Thông\n\nLikely questions:\n- lục Kèm theo Nghị định noi ve dieu gi?\n- Thong tin chinh cua lục Kèm theo Nghị định la gi?\n- Can luu y gi ve lục Kèm theo Nghị định?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve ến dữ liệu cá nhân theo quy định của pháp.\n\nến dữ liệu cá nhân theo quy định của pháp\nluật.\n\n6. Chủ thể dữ liệu là cá nhân được dữ liệu cá nhân phản ánh.\n\n7. Xử lý dữ liệu cá nhân là một hoặc nhiều hoạt động tác động tới dữ liệu\ncá nhân, như: thu thập, ghi, phân tích, xác nhận, lưu trữ, chỉnh sửa,\n\nLikely questions:\n- ến dữ liệu cá nhân noi ve dieu gi?\n- Thong tin chinh cua ến dữ liệu cá nhân la gi?\n- Can luu y gi ve ến dữ liệu cá nhân?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve ý dữ liệu cá nhân tiến hành thu thập dữ liệu cá.\n\ný dữ liệu cá nhân tiến hành thu thập dữ liệu cá\nnhân, phù hợp với các quy định tại Điều 9 Nghị định này;\n\nb) Dữ liệu cá nhân được xử lý bởi cơ quan nhà nước có thẩm quyền với\nmục đích phục vụ hoạt động của cơ quan nhà nước theo quy định của pháp\n\nLikely questions:\n- ý dữ liệu cá nhân noi ve dieu gi?\n- Thong tin chinh cua ý dữ liệu cá nhân la gi?\n- Can luu y gi ve ý dữ liệu cá nhân?"
+      ],
+      "ground_truth": "Dữ liệu cá nhân là thông tin dưới dạng ký hiệu, chữ viết, chữ số, hình ảnh, âm thanh hoặc dạng tương tự trên môi trường điện tử gắn với một con người cụ thể hoặc giúp xác định một con người cụ thể.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.8181818181818182,
+      "context_precision": 0.6969696969696969,
+      "context_recall": 0.3888888888888889
+    },
+    {
+      "question": "Dữ liệu cá nhân gồm những loại nào?",
+      "answer": "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve hành đối với hoạt động xử lý dữ liệu cá nhân..\n\nhành đối với hoạt động xử lý dữ liệu cá nhân.\n\n2. Nội dung thông báo cho chủ thể dữ liệu về xử lý dữ liệu cá nhân:\n\na) Mục đích xử lý;\n\nb) Loại dữ liệu cá nhân được sử dụng có liên quan tới mục đích xử lý quy định tại điểm a khoản 2 Điều này;\n\nc) Cách\n\nLikely questions:\n- hành đối với hoạt động noi ve dieu gi?\n- Thong tin chinh cua hành đối với hoạt động la gi?\n- Can luu y gi ve hành đối với hoạt động?",
+      "contexts": [
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve hành đối với hoạt động xử lý dữ liệu cá nhân..\n\nhành đối với hoạt động xử lý dữ liệu cá nhân.\n\n2. Nội dung thông báo cho chủ thể dữ liệu về xử lý dữ liệu cá nhân:\n\na) Mục đích xử lý;\n\nb) Loại dữ liệu cá nhân được sử dụng có liên quan tới mục đích xử lý quy định tại điểm a khoản 2 Điều này;\n\nc) Cách\n\nLikely questions:\n- hành đối với hoạt động noi ve dieu gi?\n- Thong tin chinh cua hành đối với hoạt động la gi?\n- Can luu y gi ve hành đối với hoạt động?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve vụ bưu chính, fax đến Bên.\n\nvụ bưu chính, fax đến Bên\nKiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân.\n\n6. Phiếu yêu cầu cung cấp dữ liệu cá nhân phải được thể hiện bằng tiếng\nViệt gồm các nội dung chính sau đây:\n\na) Họ, tên; nơi cư trú, địa chỉ; số chứng minh\n\nLikely questions:\n- vụ bưu chính fax đến noi ve dieu gi?\n- Thong tin chinh cua vụ bưu chính fax đến la gi?\n- Can luu y gi ve vụ bưu chính fax đến?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve Theo đề nghị của Bộ trưởng Bộ Công an;.\n\nTheo đề nghị của Bộ trưởng Bộ Công an;\n\nChính phủ ban hành Nghị định bảo vệ dữ liệu cá nhân.\n\n------------------------------------------------------------\n\nChương I\nNHỮNG QUY ĐỊNH CHUNG\n\nĐiều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n\n1. Nghị định này\n\nLikely questions:\n- Theo đề nghị của Bộ noi ve dieu gi?\n- Thong tin chinh cua Theo đề nghị của Bộ la gi?\n- Can luu y gi ve Theo đề nghị của Bộ?"
+      ],
+      "ground_truth": "Dữ liệu cá nhân bao gồm dữ liệu cá nhân cơ bản và dữ liệu cá nhân nhạy cảm.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.625,
+      "context_precision": 0.625,
+      "context_recall": 0.5454545454545454
+    },
+    {
+      "question": "Chủ thể dữ liệu là ai?",
+      "answer": "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve hứ ba là tổ chức, cá nhân ngoài Chủ thể dữ liệu, Bên Kiểm soát dữ.\n\nhứ ba là tổ chức, cá nhân ngoài Chủ thể dữ liệu, Bên Kiểm soát dữ\nliệu cá nhân, Bên Xử lý dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá\nnhân được phép xử lý dữ liệu cá nhân.\n\n13. Xử lý dữ liệu cá nhân tự động là hình thức xử lý dữ liệu cá nhân\n\nLikely questions:\n- hứ ba là tổ chức noi ve dieu gi?\n- Thong tin chinh cua hứ ba là tổ chức la gi?\n- Can luu y gi ve hứ ba là tổ chức?",
+      "contexts": [
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve hứ ba là tổ chức, cá nhân ngoài Chủ thể dữ liệu, Bên Kiểm soát dữ.\n\nhứ ba là tổ chức, cá nhân ngoài Chủ thể dữ liệu, Bên Kiểm soát dữ\nliệu cá nhân, Bên Xử lý dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá\nnhân được phép xử lý dữ liệu cá nhân.\n\n13. Xử lý dữ liệu cá nhân tự động là hình thức xử lý dữ liệu cá nhân\n\nLikely questions:\n- hứ ba là tổ chức noi ve dieu gi?\n- Thong tin chinh cua hứ ba là tổ chức la gi?\n- Can luu y gi ve hứ ba là tổ chức?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve ến dữ liệu cá nhân theo quy định của pháp.\n\nến dữ liệu cá nhân theo quy định của pháp\nluật.\n\n6. Chủ thể dữ liệu là cá nhân được dữ liệu cá nhân phản ánh.\n\n7. Xử lý dữ liệu cá nhân là một hoặc nhiều hoạt động tác động tới dữ liệu\ncá nhân, như: thu thập, ghi, phân tích, xác nhận, lưu trữ, chỉnh sửa,\n\nLikely questions:\n- ến dữ liệu cá nhân noi ve dieu gi?\n- Thong tin chinh cua ến dữ liệu cá nhân la gi?\n- Can luu y gi ve ến dữ liệu cá nhân?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve hành.\n\nhành\nđộng khác có liên quan.\n\n8. Sự đồng ý của chủ thể dữ liệu là việc thể hiện rõ ràng, tự nguyện,\nkhẳng định việc cho phép xử lý dữ liệu cá nhân của chủ thể dữ liệu.\n\n9. Bên Kiểm soát dữ liệu cá nhân là tổ chức, cá nhân quyết định mục đích\nvà phương\n\nLikely questions:\n- hành động khác có liên noi ve dieu gi?\n- Thong tin chinh cua hành động khác có liên la gi?\n- Can luu y gi ve hành động khác có liên?"
+      ],
+      "ground_truth": "Chủ thể dữ liệu là cá nhân được dữ liệu cá nhân phản ánh.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.8333333333333334,
+      "context_precision": 0.8333333333333334,
+      "context_recall": 1.0
+    },
+    {
+      "question": "Xử lý dữ liệu cá nhân bao gồm những hoạt động nào?",
+      "answer": "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve ến dữ liệu cá nhân theo quy định của pháp.\n\nến dữ liệu cá nhân theo quy định của pháp\nluật.\n\n6. Chủ thể dữ liệu là cá nhân được dữ liệu cá nhân phản ánh.\n\n7. Xử lý dữ liệu cá nhân là một hoặc nhiều hoạt động tác động tới dữ liệu\ncá nhân, như: thu thập, ghi, phân tích, xác nhận, lưu trữ, chỉnh sửa,\n\nLikely questions:\n- ến dữ liệu cá nhân noi ve dieu gi?\n- Thong tin chinh cua ến dữ liệu cá nhân la gi?\n- Can luu y gi ve ến dữ liệu cá nhân?",
+      "contexts": [
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve ến dữ liệu cá nhân theo quy định của pháp.\n\nến dữ liệu cá nhân theo quy định của pháp\nluật.\n\n6. Chủ thể dữ liệu là cá nhân được dữ liệu cá nhân phản ánh.\n\n7. Xử lý dữ liệu cá nhân là một hoặc nhiều hoạt động tác động tới dữ liệu\ncá nhân, như: thu thập, ghi, phân tích, xác nhận, lưu trữ, chỉnh sửa,\n\nLikely questions:\n- ến dữ liệu cá nhân noi ve dieu gi?\n- Thong tin chinh cua ến dữ liệu cá nhân la gi?\n- Can luu y gi ve ến dữ liệu cá nhân?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve hành đối với hoạt động xử lý dữ liệu cá nhân..\n\nhành đối với hoạt động xử lý dữ liệu cá nhân.\n\n2. Nội dung thông báo cho chủ thể dữ liệu về xử lý dữ liệu cá nhân:\n\na) Mục đích xử lý;\n\nb) Loại dữ liệu cá nhân được sử dụng có liên quan tới mục đích xử lý quy định tại điểm a khoản 2 Điều này;\n\nc) Cách\n\nLikely questions:\n- hành đối với hoạt động noi ve dieu gi?\n- Thong tin chinh cua hành đối với hoạt động la gi?\n- Can luu y gi ve hành đối với hoạt động?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve ý dữ liệu cá nhân tiến hành thu thập dữ liệu cá.\n\ný dữ liệu cá nhân tiến hành thu thập dữ liệu cá\nnhân, phù hợp với các quy định tại Điều 9 Nghị định này;\n\nb) Dữ liệu cá nhân được xử lý bởi cơ quan nhà nước có thẩm quyền với\nmục đích phục vụ hoạt động của cơ quan nhà nước theo quy định của pháp\n\nLikely questions:\n- ý dữ liệu cá nhân noi ve dieu gi?\n- Thong tin chinh cua ý dữ liệu cá nhân la gi?\n- Can luu y gi ve ý dữ liệu cá nhân?"
+      ],
+      "ground_truth": "Xử lý dữ liệu cá nhân là một hoặc nhiều hoạt động tác động tới dữ liệu cá nhân như thu thập, ghi, phân tích, xác nhận, lưu trữ, chỉnh sửa, công khai, kết hợp, truy cập, truy xuất, thu hồi, mã hóa, giải mã, sao chép, chia sẻ, truyền đưa, cung cấp, chuyển giao, xóa hoặc hủy dữ liệu cá nhân.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.6666666666666666,
+      "context_precision": 0.6666666666666666,
+      "context_recall": 0.5510204081632653
+    },
+    {
+      "question": "Sự đồng ý của chủ thể dữ liệu được hiểu như thế nào?",
+      "answer": "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve ý dữ liệu của.\n\ný dữ liệu của\nchủ thể dữ liệu tại sự đồng ý.\n\n------------------------------------------------------------\n\nĐiều 13. Thông báo xử lý dữ liệu cá nhân\n\n1. Việc thông báo được thực hiện một lần trước khi tiến hành đối với hoạt động xử lý dữ liệu cá nhân.\n\n2.\n\nLikely questions:\n- ý dữ liệu của chủ noi ve dieu gi?\n- Thong tin chinh cua ý dữ liệu của chủ la gi?\n- Can luu y gi ve ý dữ liệu của chủ?",
+      "contexts": [
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve ý dữ liệu của.\n\ný dữ liệu của\nchủ thể dữ liệu tại sự đồng ý.\n\n------------------------------------------------------------\n\nĐiều 13. Thông báo xử lý dữ liệu cá nhân\n\n1. Việc thông báo được thực hiện một lần trước khi tiến hành đối với hoạt động xử lý dữ liệu cá nhân.\n\n2.\n\nLikely questions:\n- ý dữ liệu của chủ noi ve dieu gi?\n- Thong tin chinh cua ý dữ liệu của chủ la gi?\n- Can luu y gi ve ý dữ liệu của chủ?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve ------------------------------------------------------------.\n\n------------------------------------------------------------\n\nĐiều 11. Sự đồng ý của chủ thể dữ liệu\n\n1. Sự đồng ý của chủ thể dữ liệu được áp dụng đối với tất cả các hoạt động xử lý dữ liệu cá nhân.\n\n2. Sự đồng ý chỉ có hiệu lực khi chủ thể dữ liệu tự\n\nLikely questions:\n- Điều 11 noi ve dieu gi?\n- Thong tin chinh cua Điều 11 la gi?\n- Can luu y gi ve Điều 11?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve trước khi rút lại sự đồng ý..\n\ntrước khi rút lại sự đồng ý.\n\n2. Việc rút lại sự đồng ý phải được thể hiện ở một định dạng có thể được\nin, sao chép bằng văn bản, bao gồm cả dưới dạng điện tử hoặc định dạng\nkiểm chứng được.\n\n3. Khi nhận yêu cầu rút lại sự đồng ý của chủ thể dữ liệu, Bên\n\nLikely questions:\n- trước khi rút lại sự noi ve dieu gi?\n- Thong tin chinh cua trước khi rút lại sự la gi?\n- Can luu y gi ve trước khi rút lại sự?"
+      ],
+      "ground_truth": "Sự đồng ý của chủ thể dữ liệu là việc thể hiện rõ ràng, tự nguyện, khẳng định việc cho phép xử lý dữ liệu cá nhân của chủ thể dữ liệu.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.6923076923076923,
+      "context_precision": 0.6923076923076922,
+      "context_recall": 0.6956521739130435
+    },
+    {
+      "question": "Không phản hồi có được coi là đồng ý xử lý dữ liệu cá nhân không?",
+      "answer": "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve á nhân, Bên Kiểm.\n\ná nhân, Bên Kiểm\nsoát và xử lý dữ liệu cá nhân không có lý do chính đáng để tiếp tục xử lý;\n\nd) Dữ liệu cá nhân được xử lý không đúng với mục đích đã đồng ý hoặc việc\nxử lý dữ liệu cá nhân là vi phạm quy định của pháp luật;\n\nđ) Dữ liệu cá nhân phải xóa\n\nLikely questions:\n- á nhân Bên Kiểm soát noi ve dieu gi?\n- Thong tin chinh cua á nhân Bên Kiểm soát la gi?\n- Can luu y gi ve á nhân Bên Kiểm soát?",
+      "contexts": [
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve á nhân, Bên Kiểm.\n\ná nhân, Bên Kiểm\nsoát và xử lý dữ liệu cá nhân không có lý do chính đáng để tiếp tục xử lý;\n\nd) Dữ liệu cá nhân được xử lý không đúng với mục đích đã đồng ý hoặc việc\nxử lý dữ liệu cá nhân là vi phạm quy định của pháp luật;\n\nđ) Dữ liệu cá nhân phải xóa\n\nLikely questions:\n- á nhân Bên Kiểm soát noi ve dieu gi?\n- Thong tin chinh cua á nhân Bên Kiểm soát la gi?\n- Can luu y gi ve á nhân Bên Kiểm soát?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve Nhận thấy không cần thiết cho mục đích thu thập đã đồng ý và chấp.\n\nNhận thấy không cần thiết cho mục đích thu thập đã đồng ý và chấp\nnhận các thiệt hại có thể xảy ra khi yêu cầu xóa dữ liệu;\n\nb) Rút lại sự đồng ý;\n\nc) Phản đối việc xử lý dữ liệu và Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm\nsoát và xử lý dữ liệu cá nhân\n\nLikely questions:\n- Nhận thấy không cần thiết noi ve dieu gi?\n- Thong tin chinh cua Nhận thấy không cần thiết la gi?\n- Can luu y gi ve Nhận thấy không cần thiết?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve ể kèm điều kiện..\n\nể kèm điều kiện.\n\n6. Không phản hồi không được coi là đồng ý.\n\n7. Có thể đồng ý một phần.\n\n8. Đối với dữ liệu nhạy cảm phải thông báo rõ.\n\n9. Có hiệu lực cho tới khi bị rút lại.\n\n10. Trường hợp tranh chấp phải chứng\n\nLikely questions:\n- ể kèm điều kiện 6 noi ve dieu gi?\n- Thong tin chinh cua ể kèm điều kiện 6 la gi?\n- Can luu y gi ve ể kèm điều kiện 6?"
+      ],
+      "ground_truth": "Không phản hồi không được coi là đồng ý xử lý dữ liệu cá nhân.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.8,
+      "context_precision": 0.7555555555555555,
+      "context_recall": 1.0
+    },
+    {
+      "question": "Theo Điều 3 Nghị định 13/2023, dữ liệu cá nhân chỉ được xử lý như thế nào?",
+      "answer": "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve ý dữ liệu cá nhân tiến hành thu thập dữ liệu cá.\n\ný dữ liệu cá nhân tiến hành thu thập dữ liệu cá\nnhân, phù hợp với các quy định tại Điều 9 Nghị định này;\n\nb) Dữ liệu cá nhân được xử lý bởi cơ quan nhà nước có thẩm quyền với\nmục đích phục vụ hoạt động của cơ quan nhà nước theo quy định của pháp\n\nLikely questions:\n- ý dữ liệu cá nhân noi ve dieu gi?\n- Thong tin chinh cua ý dữ liệu cá nhân la gi?\n- Can luu y gi ve ý dữ liệu cá nhân?",
+      "contexts": [
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve ý dữ liệu cá nhân tiến hành thu thập dữ liệu cá.\n\ný dữ liệu cá nhân tiến hành thu thập dữ liệu cá\nnhân, phù hợp với các quy định tại Điều 9 Nghị định này;\n\nb) Dữ liệu cá nhân được xử lý bởi cơ quan nhà nước có thẩm quyền với\nmục đích phục vụ hoạt động của cơ quan nhà nước theo quy định của pháp\n\nLikely questions:\n- ý dữ liệu cá nhân noi ve dieu gi?\n- Thong tin chinh cua ý dữ liệu cá nhân la gi?\n- Can luu y gi ve ý dữ liệu cá nhân?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve cá nhân phù hợp với mục đích đã được chủ thể dữ liệu đồng ý..\n\ncá nhân phù hợp với mục đích đã được chủ thể dữ liệu đồng ý.\n\n------------------------------------------------------------\n\nĐiều 3. Nguyên tắc bảo vệ dữ liệu cá nhân\n\n1. Dữ liệu cá nhân được xử lý theo quy định của pháp luật.\n\n2. Chủ thể dữ liệu được biết\n\nLikely questions:\n- cá nhân phù hợp với noi ve dieu gi?\n- Thong tin chinh cua cá nhân phù hợp với la gi?\n- Can luu y gi ve cá nhân phù hợp với?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve ến dữ liệu cá nhân theo quy định của pháp.\n\nến dữ liệu cá nhân theo quy định của pháp\nluật.\n\n6. Chủ thể dữ liệu là cá nhân được dữ liệu cá nhân phản ánh.\n\n7. Xử lý dữ liệu cá nhân là một hoặc nhiều hoạt động tác động tới dữ liệu\ncá nhân, như: thu thập, ghi, phân tích, xác nhận, lưu trữ, chỉnh sửa,\n\nLikely questions:\n- ến dữ liệu cá nhân noi ve dieu gi?\n- Thong tin chinh cua ến dữ liệu cá nhân la gi?\n- Can luu y gi ve ến dữ liệu cá nhân?"
+      ],
+      "ground_truth": "Theo Điều 3, dữ liệu cá nhân chỉ được xử lý đúng mục đích.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.6111111111111112,
+      "context_precision": 0.5925925925925927,
+      "context_recall": 0.8571428571428571
+    },
+    {
+      "question": "Theo Điều 8 Nghị định 13/2023, hành vi nào bị nghiêm cấm liên quan đến dữ liệu cá nhân?",
+      "answer": "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve k) Dữ liệu cá nhân khác được pháp luật quy định là đặc thù và cần có biện.\n\nk) Dữ liệu cá nhân khác được pháp luật quy định là đặc thù và cần có biện\npháp bảo mật cần thiết.\n\n5. Bảo vệ dữ liệu cá nhân là hoạt động phòng ngừa, phát hiện, ngăn chặn,\nxử lý hành vi vi phạm liên quan đến dữ liệu cá nhân theo quy định của\n\nLikely questions:\n- k Dữ liệu cá nhân noi ve dieu gi?\n- Thong tin chinh cua k Dữ liệu cá nhân la gi?\n- Can luu y gi ve k Dữ liệu cá nhân?",
+      "contexts": [
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve k) Dữ liệu cá nhân khác được pháp luật quy định là đặc thù và cần có biện.\n\nk) Dữ liệu cá nhân khác được pháp luật quy định là đặc thù và cần có biện\npháp bảo mật cần thiết.\n\n5. Bảo vệ dữ liệu cá nhân là hoạt động phòng ngừa, phát hiện, ngăn chặn,\nxử lý hành vi vi phạm liên quan đến dữ liệu cá nhân theo quy định của\n\nLikely questions:\n- k Dữ liệu cá nhân noi ve dieu gi?\n- Thong tin chinh cua k Dữ liệu cá nhân la gi?\n- Can luu y gi ve k Dữ liệu cá nhân?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve hế hợp tác quốc tế;.\n\nhế hợp tác quốc tế;\n2. Tham gia trao đổi thông tin;\n3. Tổ chức hội nghị;\n4. Thúc đẩy hợp tác song phương;\n5. Chuyển giao công nghệ.\n\n------------------------------------------------------------\n\nĐiều 8. Hành vi bị nghiêm cấm\n\n1. Xử lý dữ liệu cá nhân trái\n\nLikely questions:\n- hế hợp tác quốc tế noi ve dieu gi?\n- Thong tin chinh cua hế hợp tác quốc tế la gi?\n- Can luu y gi ve hế hợp tác quốc tế?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve ý dữ liệu cá nhân tiến hành thu thập dữ liệu cá.\n\ný dữ liệu cá nhân tiến hành thu thập dữ liệu cá\nnhân, phù hợp với các quy định tại Điều 9 Nghị định này;\n\nb) Dữ liệu cá nhân được xử lý bởi cơ quan nhà nước có thẩm quyền với\nmục đích phục vụ hoạt động của cơ quan nhà nước theo quy định của pháp\n\nLikely questions:\n- ý dữ liệu cá nhân noi ve dieu gi?\n- Thong tin chinh cua ý dữ liệu cá nhân la gi?\n- Can luu y gi ve ý dữ liệu cá nhân?"
+      ],
+      "ground_truth": "Một hành vi bị nghiêm cấm là xử lý dữ liệu cá nhân trái quy định pháp luật.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.55,
+      "context_precision": 0.5499999999999999,
+      "context_recall": 0.9444444444444444
+    },
+    {
+      "question": "Theo Nghị định 13/2023, quyền của chủ thể dữ liệu gồm những quyền nào?",
+      "answer": "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve ịnh của pháp luật;.\n\nịnh của pháp luật;\n\nđ) Dữ liệu cá nhân phải xóa theo quy định của pháp luật.\n\n2. Việc xóa dữ liệu sẽ không áp dụng khi có đề nghị của chủ thể dữ liệu\ntrong các trường hợp:\n\na) Pháp luật quy định không cho phép xóa dữ liệu;\n\nb) Dữ liệu cá nhân được xử lý\n\nLikely questions:\n- ịnh của pháp luật đ noi ve dieu gi?\n- Thong tin chinh cua ịnh của pháp luật đ la gi?\n- Can luu y gi ve ịnh của pháp luật đ?",
+      "contexts": [
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve ịnh của pháp luật;.\n\nịnh của pháp luật;\n\nđ) Dữ liệu cá nhân phải xóa theo quy định của pháp luật.\n\n2. Việc xóa dữ liệu sẽ không áp dụng khi có đề nghị của chủ thể dữ liệu\ntrong các trường hợp:\n\na) Pháp luật quy định không cho phép xóa dữ liệu;\n\nb) Dữ liệu cá nhân được xử lý\n\nLikely questions:\n- ịnh của pháp luật đ noi ve dieu gi?\n- Thong tin chinh cua ịnh của pháp luật đ la gi?\n- Can luu y gi ve ịnh của pháp luật đ?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve lục.\n\nlục\n(Kèm theo Nghị định số 13/2023/NĐ-CP ngày 17 tháng 4 năm 2023 của Chính phủ)\n\nMẫu số 01: Phiếu yêu cầu cung cấp dữ liệu cá nhân (dành cho cá nhân)  \nMẫu số 02: Phiếu yêu cầu cung cấp dữ liệu cá nhân (dành cho tổ chức, doanh nghiệp)  \nMẫu số 03: Thông\n\nLikely questions:\n- lục Kèm theo Nghị định noi ve dieu gi?\n- Thong tin chinh cua lục Kèm theo Nghị định la gi?\n- Can luu y gi ve lục Kèm theo Nghị định?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve u cá nhân của chủ thể dữ liệu sau khi được chủ thể dữ liệu.\n\nu cá nhân của chủ thể dữ liệu sau khi được chủ thể dữ liệu\ncá nhân đồng ý ngay khi có thể hoặc theo quy định của pháp luật chuyên ngành.\nTrường hợp không thể thực hiện thì thông báo tới chủ thể dữ liệu sau 72 giờ\nkể từ khi nhận được yêu cầu chỉnh sửa dữ\n\nLikely questions:\n- u cá nhân của chủ noi ve dieu gi?\n- Thong tin chinh cua u cá nhân của chủ la gi?\n- Can luu y gi ve u cá nhân của chủ?"
+      ],
+      "ground_truth": "Quyền của chủ thể dữ liệu gồm quyền được biết, quyền đồng ý, quyền truy cập, quyền rút lại sự đồng ý, quyền xóa dữ liệu, quyền hạn chế xử lý dữ liệu, quyền cung cấp dữ liệu, quyền phản đối xử lý dữ liệu và quyền tự bảo vệ.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.5714285714285714,
+      "context_precision": 0.5476190476190476,
+      "context_recall": 0.4482758620689655
+    },
+    {
+      "question": "Việc cung cấp dữ liệu cá nhân phải được thực hiện trong bao lâu sau khi có yêu cầu?",
+      "answer": "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve m soát và xử lý dữ liệu cá nhân thực hiện trong 72.\n\nm soát và xử lý dữ liệu cá nhân thực hiện trong 72\ngiờ sau khi có yêu cầu của chủ thể dữ liệu, trừ trường hợp luật có quy định\nkhác.\n\n4. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân\nkhông cung cấp dữ liệu cá nhân trong trường\n\nLikely questions:\n- m soát và xử lý noi ve dieu gi?\n- Thong tin chinh cua m soát và xử lý la gi?\n- Can luu y gi ve m soát và xử lý?",
+      "contexts": [
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve m soát và xử lý dữ liệu cá nhân thực hiện trong 72.\n\nm soát và xử lý dữ liệu cá nhân thực hiện trong 72\ngiờ sau khi có yêu cầu của chủ thể dữ liệu, trừ trường hợp luật có quy định\nkhác.\n\n4. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân\nkhông cung cấp dữ liệu cá nhân trong trường\n\nLikely questions:\n- m soát và xử lý noi ve dieu gi?\n- Thong tin chinh cua m soát và xử lý la gi?\n- Can luu y gi ve m soát và xử lý?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve n khác khi chủ thể dữ liệu đồng ý cho phép đại diện.\n\nn khác khi chủ thể dữ liệu đồng ý cho phép đại diện\nvà ủy quyền, trừ trường hợp pháp luật có quy định khác.\n\n3. Việc cung cấp dữ liệu cá nhân của chủ thể dữ liệu được Bên Kiểm soát\ndữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân thực hiện trong\n\nLikely questions:\n- n khác khi chủ thể noi ve dieu gi?\n- Thong tin chinh cua n khác khi chủ thể la gi?\n- Can luu y gi ve n khác khi chủ thể?",
+        "Doan nay trich tu Nghi_dinh_13_2023.md, noi ve u cầu đến cơ.\n\nu cầu đến cơ\nquan có thẩm quyền thông báo rõ ràng việc không thể cung cấp dữ liệu cá nhân.\n\n9. Giải quyết yêu cầu cung cấp dữ liệu cá nhân\n\nKhi nhận được yêu cầu cung cấp dữ liệu cá nhân hợp lệ, Bên Kiểm soát\ndữ liệu cá nhân, Bên Kiểm soát và xử lý dữ\n\nLikely questions:\n- u cầu đến cơ quan noi ve dieu gi?\n- Thong tin chinh cua u cầu đến cơ quan la gi?\n- Can luu y gi ve u cầu đến cơ quan?"
+      ],
+      "ground_truth": "Việc cung cấp dữ liệu cá nhân được thực hiện trong 72 giờ sau khi có yêu cầu của chủ thể dữ liệu, trừ trường hợp luật có quy định khác.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.7368421052631579,
+      "context_precision": 0.6842105263157894,
+      "context_recall": 1.0
+    }
+  ],
+  "failures": [
+    {
+      "question": "Theo Nghị định 13/2023, quyền của chủ thể dữ liệu gồm những quyền nào?",
+      "worst_metric": "context_recall",
+      "score": 0.4482758620689655,
+      "avg_score": 0.6418308702791462,
+      "diagnosis": "Missing relevant chunks",
+      "suggested_fix": "Improve chunking, add BM25 recall, or index enriched queries."
+    },
+    {
+      "question": "Tên người nộp thuế trong tờ khai GTGT là gì?",
+      "worst_metric": "context_recall",
+      "score": 0.5454545454545454,
+      "avg_score": 0.6780303030303031,
+      "diagnosis": "Missing relevant chunks",
+      "suggested_fix": "Improve chunking, add BM25 recall, or index enriched queries."
+    },
+    {
+      "question": "Ai là người ký tờ khai GTGT?",
+      "worst_metric": "context_precision",
+      "score": 0.4761904761904762,
+      "avg_score": 0.6785714285714285,
+      "diagnosis": "Too many irrelevant chunks",
+      "suggested_fix": "Add reranking, metadata filters, or reduce top_k."
+    },
+    {
+      "question": "Dữ liệu cá nhân gồm những loại nào?",
+      "worst_metric": "context_recall",
+      "score": 0.5454545454545454,
+      "avg_score": 0.6988636363636364,
+      "diagnosis": "Missing relevant chunks",
+      "suggested_fix": "Improve chunking, add BM25 recall, or index enriched queries."
+    },
+    {
+      "question": "Nghị định 13/2023/NĐ-CP quy định về vấn đề gì?",
+      "worst_metric": "answer_relevancy",
+      "score": 0.5454545454545454,
+      "avg_score": 0.7206439393939393,
+      "diagnosis": "Answer does not match question",
+      "suggested_fix": "Improve prompt template and answer extraction."
+    },
+    {
+      "question": "Xử lý dữ liệu cá nhân bao gồm những hoạt động nào?",
+      "worst_metric": "context_recall",
+      "score": 0.5510204081632653,
+      "avg_score": 0.7210884353741496,
+      "diagnosis": "Missing relevant chunks",
+      "suggested_fix": "Improve chunking, add BM25 recall, or index enriched queries."
+    },
+    {
+      "question": "Theo Nghị định 13/2023, dữ liệu cá nhân là gì?",
+      "worst_metric": "context_recall",
+      "score": 0.3888888888888889,
+      "avg_score": 0.726010101010101,
+      "diagnosis": "Missing relevant chunks",
+      "suggested_fix": "Improve chunking, add BM25 recall, or index enriched queries."
+    },
+    {
+      "question": "Thuế GTGT phát sinh trong kỳ là bao nhiêu?",
+      "worst_metric": "context_precision",
+      "score": 0.5555555555555556,
+      "avg_score": 0.7601010101010102,
+      "diagnosis": "Too many irrelevant chunks",
+      "suggested_fix": "Add reranking, metadata filters, or reduce top_k."
+    },
+    {
+      "question": "Theo Điều 8 Nghị định 13/2023, hành vi nào bị nghiêm cấm liên quan đến dữ liệu cá nhân?",
+      "worst_metric": "context_precision",
+      "score": 0.5499999999999999,
+      "avg_score": 0.7611111111111111,
+      "diagnosis": "Too many irrelevant chunks",
+      "suggested_fix": "Add reranking, metadata filters, or reduce top_k."
+    },
+    {
+      "question": "Theo Điều 3 Nghị định 13/2023, dữ liệu cá nhân chỉ được xử lý như thế nào?",
+      "worst_metric": "context_precision",
+      "score": 0.5925925925925927,
+      "avg_score": 0.7652116402116402,
+      "diagnosis": "Too many irrelevant chunks",
+      "suggested_fix": "Add reranking, metadata filters, or reduce top_k."
+    }
+  ]
+}

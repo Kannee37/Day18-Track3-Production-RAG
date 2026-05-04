@@ -1,0 +1,24 @@
+python-dotenv
+pytest
+
+# Retrieval and vector database
+qdrant-client
+sentence-transformers
+rank-bm25
+underthesea
+numpy
+
+# Evaluation
+ragas
+datasets
+pandas
+pypdf
+
+# LLM / API clients
+openai
+cohere
+google-generativeai
+
+# Optional reranking backend used in Module 3 comments
+FlagEmbedding
+flashrank
